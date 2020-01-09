@@ -6,7 +6,7 @@
             "type": "string",
             "defaultValue": "EdgeVM",
             "metadata": {
-                "description": "The name of you Virtual Machine!"
+                "description": "The name of you Virtual Machine!!"
             }
         },
         "IoTHubname": {
