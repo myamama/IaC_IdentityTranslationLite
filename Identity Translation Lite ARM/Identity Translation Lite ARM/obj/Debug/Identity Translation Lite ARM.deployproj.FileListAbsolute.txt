@@ -1,0 +1,1 @@
+C:\IoT projects\IoT Edge\Identity Translation Lite ARM\Identity Translation Lite ARM\obj\Debug\Identity Translation Lite ARM.deployproj.CoreCompileInputs.cache
